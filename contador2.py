@@ -11,3 +11,4 @@ for k in wordcount.items():
 print(wordcount["TERMO1"])
 print(wordcount["TERMO2"])
 print(wordcount["TERMO3"])
+print(wordcount["TERMO4"])
